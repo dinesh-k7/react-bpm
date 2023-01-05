@@ -1,10 +1,10 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Simple Real time BTM analayzer for audio tag
 
 ## Installation
 
-### `npm install`
+ `npm install`
 
 ## Available Scripts
 
